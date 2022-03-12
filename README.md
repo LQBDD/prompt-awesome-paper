@@ -1,5 +1,5 @@
 # prompt-awesome-paper
-prompt awesome paper
+prompt awesome paper，star means this project offer some toolkit or some method can be used.
 ## paperlist
 + **Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners** [[pdf]](https://arxiv.org/abs/2108.13161) [[project]](https://github.com/zjunlp/DART) ICLR 2022
 + **![10D8FB3A](https://user-images.githubusercontent.com/32120775/158010734-879dfdc9-7dc9-41e4-bbd8-df47b6fcc925.png)
