@@ -1,5 +1,5 @@
 # prompt-awesome-paper
-prompt awesome paper.
+prompt awesome paper. *代表个人感觉有较大参考价值的project
 ## paperlist
 + ***Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners** [[pdf]](https://arxiv.org/abs/2108.13161) [[project]](https://github.com/zjunlp/DART) ICLR 2022
 + **Making Pre-trained Language Models Better Few-shot Learners** [[pdf]](https://arxiv.org/pdf/2012.15723) [[project]](https://github.com/princeton-nlp/LM-BFF) ACL 2021
